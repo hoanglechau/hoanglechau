@@ -1,4 +1,4 @@
-### Hi, I'm Hoang! Welcome to my GitHub page! 😄
+# Hi, I'm Hoang! Welcome to my GitHub page! :sunglasses:
 
 <!--
 **hoanglechau/hoanglechau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
