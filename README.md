@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanglechau&count_private=true&show_icons=true&theme=dracula&hide=stars,prs,issues,contribs&include_all_commits=true)
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglechau&langs_count=24&layout=compact)
+
+![Visitor Count](https://profile-counter.glitch.me/hoanglechau/count.svg)
