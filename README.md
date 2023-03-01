@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hoang's GitHub Stats](https://github-readme-stats-lilac-seven.vercel.app/api?username=hoanglechau&count_private=true&show_icons=true&theme=dracula&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title="Hoang's GitHub Stats")
+(https://github-readme-stats-lilac-seven.vercel.app/api?username=hoanglechau&count_private=true&show_icons=true&theme=dracula&hide=stars,prs,issues,contribs&include_all_commits=true&custom_title="Hoang's GitHub Stats")
 
-![Hoang's Most Used Languages](https://github-readme-stats-lilac-seven.vercel.app/api/top-langs/?username=hoanglechau&hide=html,css,jupyter%20notebook&layout=compact&langs_count=10&exclude_repo=github-readme-stats&custom_title="Hoang's Most Used Languages")
+(https://github-readme-stats-lilac-seven.vercel.app/api/top-langs/?username=hoanglechau&hide=html,css,jupyter%20notebook&layout=compact&langs_count=10&exclude_repo=github-readme-stats&custom_title="Hoang's Most Used Languages")
 
