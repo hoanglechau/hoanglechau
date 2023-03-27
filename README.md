@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang</h1>
+<h1 align="center">Hi 👋, I'm Hoang 😎</h1>
 <h3 align="center">A passionate Full-stack Software Engineer from Vietnam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau" alt="hoanglechau" /></a> </p>
