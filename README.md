@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang 😎</h1>
-<h3 align="center">A passionate Full-stack Software Engineer from Vietnam</h3>
+<h3 align="center">A passionate Full-stack Software Engineer</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,Followers,PullRequest" alt="hoanglechau" /></a> </p>
 
@@ -37,7 +37,7 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a>
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" /> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40" /> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" /> </a>
   <a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40" /> </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" /> </a>
   <!-- Deployment -->
