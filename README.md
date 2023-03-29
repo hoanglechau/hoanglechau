@@ -15,9 +15,9 @@
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_material_design.svg" alt="materialui" width="40" height="40" /></a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="chakraui" width="40" height="40" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_material_design.svg" alt="materialui" width="40" height="40" /></a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/r_g.svg" alt="chakraui" width="40" height="40" /></a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40" /></a>
