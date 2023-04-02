@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang 😎</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,Followers,PullRequest" alt="hoanglechau" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories" alt="hoanglechau" /></a> </p>
 
 - 📫 How to reach me **hi.hoanglechau@gmail.com**
 
