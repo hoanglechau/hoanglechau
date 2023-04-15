@@ -71,10 +71,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://api.githubtrends.io/user/svg/hoanglechau/langs?time_range=one_year&include_private=true&theme=radical" alt="hoanglechau" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglechau&theme=radical" alt="hoanglechau" />
 </p>
 
