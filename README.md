@@ -3,8 +3,8 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories" alt="hoanglechau" /></a> </p>
 
-- 📫 Reach me at **hi.hoanglechau@gmail.com**
 - 💻 View my **[Portfolio Website](https://hoanglechau-portfolio.vercel.app/)** 
+- 📫 Reach me at **hi.hoanglechau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
