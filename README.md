@@ -75,6 +75,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglechau&theme=radical" alt="hoanglechau" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 # Hi, I'm Hoang! Welcome to my GitHub page! :sunglasses:
 
