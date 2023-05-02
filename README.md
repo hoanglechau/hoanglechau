@@ -76,6 +76,21 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 April 2023 - To: 02 May 2023
+
+Total Time: 19 hrs 47 mins
+
+JavaScript   8 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   43.18 %
+Lua          5 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Bash         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+conf         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Markdown     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
