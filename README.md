@@ -71,11 +71,9 @@
   <img align="center" src="https://github-readme-stats-lilac-seven.vercel.app/api/top-langs/?username=hoanglechau&hide=html,css,jupyter%20notebook,batch%20file&layout=compact&langs_count=10&theme=radical&exclude_repo=github-readme-stats&custom_title=Hoang%27s%20Most%20Used%20Languages" alt="hoanglechau" />
 </p>
 
-<!--
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglechau&theme=radical" alt="hoanglechau" />
 </p>
--->
 
 <h3 align="left">⚡ Weekly development breakdown ⚡</h3>
 <!--START_SECTION:waka-->
