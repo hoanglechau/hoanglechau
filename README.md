@@ -79,15 +79,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
-Total Time: 15 hrs 25 mins
+Total Time: 19 hrs 4 mins
 
-JavaScript   14 hrs 20 mins  ███████████████████████▒░   92.89 %
-CSS          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Solidity     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   17 hrs 54 mins  ███████████████████████▒░   93.89 %
+CSS          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Solidity     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
