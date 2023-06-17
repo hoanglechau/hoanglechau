@@ -79,17 +79,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
-Total Time: 24 hrs 5 mins
+Total Time: 26 hrs 37 mins
 
-JavaScript   23 hrs 12 mins  ████████████████████████░   96.33 %
-JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-gitignore    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   25 hrs 41 mins  ████████████████████████░   96.53 %
+JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+CSS          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+gitignore    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
