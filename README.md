@@ -6,7 +6,7 @@ I'm a full-stack software engineer who loves building user-friendly, responsive 
 </p>
 
 <p align="left">
-I'm currently looking for a full-stack, frontend, or backend software engineer position. Please feel free to contact me at hola.hoanglechau@gmail.com for new opportunities. Thank you very much!
+I'm currently looking for a full-stack, frontend, or backend software engineer position. I love learning new technologies, so I don't mind working with something outside my current tech stack. With my discipline and persistence, I believe that I can pick up new skills very quickly. Please feel free to contact me at hola.hoanglechau@gmail.com for new opportunities. Thank you very much!
 </p>
 
 <p align="left">
