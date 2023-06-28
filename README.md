@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hoang 😎</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer</h3>
+<h3 align="center">A passionate Full-Stack Software Engineer and Educator</h3>
+
+<p align="left">
+I'm a full-stack software engineer who loves building user-friendly, responsive web applications, and learning new technologies. I also have a great passion for teaching and sharing my knowledge with other people. I've been working as an English test-prep teacher for many years, so learning and teaching is my specialty. I program and learn new technologies everyday.
+</p>
+
+<p align="left">
+I'm currently looking for a full-stack, frontend, or backend software engineer position. Please feel free to contact me at hola.hoanglechau@gmail.com for new opportunities. Thank you very much!
+</p>
+
+<p align="left">
+⭐ Skilled in: JavaScript, React, Redux, Material UI, Node.js, Express, MongoDB<br>
+⭐ Familiar with: TypeScript, Python, Chakra UI, Bootstrap<br>
+⭐ Currently learning: Next.js, Go
+</p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories" alt="hoanglechau" /></a> </p>
 
