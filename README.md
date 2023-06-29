@@ -93,19 +93,19 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 21 June 2023 - To: 28 June 2023
 
-Total Time: 11 hrs 34 mins
+Total Time: 8 hrs 56 mins
 
-JavaScript   9 hrs 56 mins   █████████████████████▒░░░   85.84 %
-Markdown     1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Go           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   7 hrs 26 mins   ████████████████████▓░░░░   83.24 %
+Markdown     52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Bash         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Go           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+conf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
