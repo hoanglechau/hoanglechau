@@ -15,7 +15,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 ⭐ Currently learning: Next.js, Go
 </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories" alt="hoanglechau" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
 
 - 💻 View my **[Portfolio Website](https://hoanglechau.vercel.app/)** 
 - 📫 Reach me at **hola.hoanglechau@gmail.com**
