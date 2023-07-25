@@ -89,7 +89,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglechau&theme=radical" alt="hoanglechau" />
 </p>
 
-<h3 align="left">⚡ Weekly development breakdown ⚡</h3>
+<h3 align="left">⚡ Development breakdown ⚡</h3>
 <!--START_SECTION:waka-->
 
 ```txt
