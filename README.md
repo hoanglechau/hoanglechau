@@ -93,12 +93,12 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2023 - To: 27 July 2023
+From: 28 April 2023 - To: 28 July 2023
 
-Total Time: 187 hrs 17 mins
+Total Time: 187 hrs 38 mins
 
-JavaScript   156 hrs 9 mins  █████████████████████░░░░   83.38 %
-Lua          7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript   156 hrs 30 mins █████████████████████░░░░   83.40 %
+Lua          7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 JSON         5 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 Markdown     3 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 Bash         3 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
