@@ -92,19 +92,19 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2023 - To: 15 August 2023
+From: 28 April 2023 - To: 16 August 2023
 
-Total Time: 189 hrs 53 mins
+Total Time: 190 hrs 37 mins
 
-JavaScript   156 hrs 30 mins ████████████████████▓░░░░   82.42 %
-Lua          7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-JSON         6 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Markdown     3 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Bash         3 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-CSS          2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+JavaScript   156 hrs 30 mins ████████████████████▓░░░░   82.10 %
+Lua          7 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JSON         6 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Markdown     3 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Bash         3 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Python       2 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+CSS          2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 Other        1 hr 32 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Python       1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Java         1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Java         1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 conf         1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
