@@ -25,18 +25,26 @@ I'm currently looking for a full-stack, backend, or frontend software engineer p
 </p>
 
 <h3 align="left">⚡ Full-Stack Projects ⚡</h3>
-<p>
+<div>
+<a href="https://github.com/hoanglechau/meganote-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=meganote-backend" alt="adomin-be" />
-</p>
-<p>
+</a>
+</div>
+<div>
+<a href="https://github.com/hoanglechau/adomin-be">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=adomin-be" alt="adomin-be" />
-</p>
-<p>
+</a>
+</div>
+<div>
+<a href="https://github.com/hoanglechau/wtwr-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=wtwr-app" alt="adomin-be" />
-</p>
-<p>
+</a>
+</div>
+<div>
+<a href="https://github.com/hoanglechau/react-around-api-full">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=react-around-api-full" alt="adomin-be" />
-</p>
+</a>
+</div>
 
 <h3 align="left">⚡ Languages and Tools ⚡</h3>
 <p align="left">
