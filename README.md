@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full-Stack Software Engineer and Educator</h3>
 
 <p align="left">
-I'm a full-stack software engineer who loves building user-friendly, responsive web applications, and learning new technologies. I also have a great passion for teaching and sharing my knowledge with other people. I've been working as an English test-prep teacher for many years, so learning and teaching is my specialty. I program and learn new technologies everyday.
+I'm a full-stack software engineer who loves building user-friendly, responsive web applications, and learning new technologies. I also have a great passion for teaching and sharing my knowledge with other people. I've been working as an English test-prep teacher for many years, so learning and teaching is my specialty. I program and learn new technologies every day.
 </p>
 
 <p align="left">
-I'm currently looking for a full-stack, frontend, or backend software engineer position. I love learning new technologies, so I don't mind working with things outside my current tech stack. With my discipline and persistence, I believe that I can pick up new skills very quickly. Please feel free to contact me at hola.hoanglechau@gmail.com for new opportunities. Thank you very much!
+I'm currently looking for a full-stack, backend, or frontend software engineer position. I love learning new technologies, so I don't mind working with things outside my current tech stack. With my discipline and persistence, I believe that I can pick up new skills very quickly. Please feel free to contact me at hola.hoanglechau@gmail.com for new opportunities. Thank you very much!
 </p>
 
 <p align="left">
@@ -24,6 +24,20 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <a href="https://linkedin.com/in/hoanglechau" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanglechau" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">⚡ Projects ⚡</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=meganote-backend" alt="adomin-be" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=adomin-be" alt="adomin-be" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=wtwr-app" alt="adomin-be" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=react-around-api-full" alt="adomin-be" />
+</p>
+
 <h3 align="left">⚡ Languages and Tools ⚡</h3>
 <p align="left">
   <!-- JavaScript -->
@@ -33,8 +47,12 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/rVA.svg" alt="express" width="40" height="40" /></a>
+  <!-- Python -->
+  <a href="https://docs.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" /></a>
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
   <!-- Backend -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="linux" width="40" height="40" /></a>
@@ -53,8 +71,8 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="eslint" width="40" height="40" /></a>
   
   <!-- Text Editors and IDEs --> 
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40" /></a>
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40" /></a> <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" /></a>
@@ -64,8 +82,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" /></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" /></a> 
   
-  <!-- Python -->
-  <a href="https://docs.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" /></a> <!-- AI and DS -->
+   <!-- AI and DS -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyternotebook" width="40" height="40" /></a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40" /></a> <!-- Design -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><!-- Project Management -->
@@ -87,6 +104,12 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglechau&theme=radical" alt="hoanglechau" />
 </p>
+
+<!--
+<p>
+  <img align="center" src="https://github-readme-stats-lilac-seven.vercel.app/api/wakatime?username=hoanglechau" alt="hoanglechau" />
+</p>
+-->
 
 <h3 align="left">⚡ Development breakdown ⚡</h3>
 <!--START_SECTION:waka-->
