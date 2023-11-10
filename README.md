@@ -11,7 +11,7 @@ I'm currently looking for a full-stack, backend, or frontend software engineer p
 
 <p align="left">
 ⭐ Skills: JavaScript, React, Redux, Material UI, Node.js, Express, MongoDB<br>
-⭐ Currently learning: Python, Django, TypeScript, SQL
+⭐ Currently learning: Java, Python, Django, TypeScript, SQL
 </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
