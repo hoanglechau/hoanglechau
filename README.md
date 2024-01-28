@@ -2,16 +2,16 @@
 <h3 align="center">A passionate Full-Stack Software Engineer and Educator</h3>
 
 <p align="left">
-I'm a full-stack software engineer who loves building user-friendly, responsive web applications, and learning new technologies. I also have a great passion for teaching and sharing my knowledge with other people. I've been working as an English test-prep teacher for many years, so learning and teaching is my specialty. I program and learn new technologies every day.
+I'm a full-stack software engineer who loves building web applications and learning new technologies. I also have a great passion for teaching and sharing my knowledge with other people. I've been working as an English test-prep teacher for many years, so learning and teaching is my specialty. 
 </p>
 
 <p align="left">
-I'm currently looking for a full-stack, backend, or frontend software engineer position. I love learning new technologies, so I don't mind working with things outside my current tech stack. With my discipline and persistence, I believe that I can pick up new skills very quickly. Please feel free to contact me at hola.hoanglechau@gmail.com for new opportunities. Thank you very much!
+I'm currently looking for a full-stack, backend, or frontend software engineer position. I love learning new technologies, so I don't mind working with things outside my current tech stack. With my discipline and persistence, I believe that I can pick up new skills very quickly. Please feel free to contact me at hallo.hoanglechau@gmail.com for new opportunities. Thank you very much!
 </p>
 
 <p align="left">
 ⭐ Skills: JavaScript, React, Redux, Material UI, Node.js, Express, MongoDB<br>
-⭐ Currently learning: Java, Python, Django, TypeScript, SQL
+⭐ Currently learning: Python, Django, PostgreSQL, TypeScript
 </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
