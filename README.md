@@ -17,7 +17,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
 
 - 💻 View my **[Portfolio Website](https://hoanglechau.vercel.app/)** 
-- 📫 Reach me at **hola.hoanglechau@gmail.com**
+- 📫 Reach me at **hallo.hoanglechau@gmail.com**
 
 <h3 align="left">⚡ Connect with me ⚡</h3>
 <p align="left">
