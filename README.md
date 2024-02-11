@@ -31,7 +31,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </a>
 </div>
 <div>
-<a href="https://github.com/hoanglechau/meganote-backend">
+<a href="https://github.com/hoanglechau/meganote-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=meganote-frontend" alt="meganote-frontend" />
 </a>
 </div>
