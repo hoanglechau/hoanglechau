@@ -10,7 +10,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </p>
 
 <p align="left">
-⭐ Skills: JavaScript, TypeScript, React, Redux, Material UI, Node.js, Express, MongoDB<br>
+⭐ Skills: JavaScript, TypeScript, React, Redux, Zustand, Material UI, Chakra UI, Node.js, Express, MongoDB<br>
 ⭐ Currently learning: Python, Django, PostgreSQL
 </p>
 
