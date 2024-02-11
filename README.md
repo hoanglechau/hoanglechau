@@ -10,8 +10,8 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </p>
 
 <p align="left">
-⭐ Skills: JavaScript, React, Redux, Material UI, Node.js, Express, MongoDB<br>
-⭐ Currently learning: Python, Django, PostgreSQL, TypeScript
+⭐ Skills: JavaScript, TypeScript, React, Redux, Material UI, Node.js, Express, MongoDB<br>
+⭐ Currently learning: Python, Django, PostgreSQL
 </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
@@ -24,25 +24,30 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <a href="https://linkedin.com/in/hoanglechau" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanglechau" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">⚡ Full-Stack Projects ⚡</h3>
+<h3 align="left">⚡ Projects ⚡</h3>
 <div>
-<a href="https://github.com/hoanglechau/meganote-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=meganote-backend" alt="adomin-be" />
+<a href="https://github.com/hoanglechau/gemuhabu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=gemuhabu" alt="gemuhabu" />
 </a>
 </div>
 <div>
-<a href="https://github.com/hoanglechau/adomin-be">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=adomin-be" alt="adomin-be" />
+<a href="https://github.com/hoanglechau/meganote-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=meganote-frontend" alt="meganote-frontend" />
+</a>
+</div>
+<div>
+<a href="https://github.com/hoanglechau/adomin-fe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=adomin-fe" alt="adomin-fe" />
 </a>
 </div>
 <div>
 <a href="https://github.com/hoanglechau/wtwr-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=wtwr-app" alt="adomin-be" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=wtwr-app" alt="wtwr-app" />
 </a>
 </div>
 <div>
 <a href="https://github.com/hoanglechau/react-around-api-full">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=react-around-api-full" alt="adomin-be" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=react-around-api-full" alt="react-around-api-full" />
 </a>
 </div>
 
