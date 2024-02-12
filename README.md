@@ -36,18 +36,8 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </a>
 </div>
 <div>
-<a href="https://github.com/hoanglechau/meganote-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=meganote-backend" alt="meganote-backend" />
-</a>
-</div>
-<div>
 <a href="https://github.com/hoanglechau/adomin-fe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=adomin-fe" alt="adomin-fe" />
-</a>
-</div>
-<div>
-<a href="https://github.com/hoanglechau/adomin-be">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoanglechau&repo=adomin-be" alt="adomin-be" />
 </a>
 </div>
 <div>
