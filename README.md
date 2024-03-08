@@ -10,6 +10,10 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </p>
 
 <p align="left">
+⭐ Languages: English (Native-level C2 - IELTS 8.5, TOEIC 990), Japanese (Intermediate - JLPT/NAT-TEST N3), Vietnamese (Native), German (Elementary)
+</p>
+
+<p align="left">
 ⭐ Skills: JavaScript, TypeScript, React, Redux, Zustand, Material UI, Chakra UI, Node.js, Express, MongoDB<br>
 </p>
 
