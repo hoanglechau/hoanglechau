@@ -134,7 +134,7 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2023 - To: 06 April 2024
+From: 28 April 2023 - To: 07 April 2024
 
 Total Time: 232 hrs 54 mins
 
