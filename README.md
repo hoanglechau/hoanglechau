@@ -130,7 +130,12 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </p>
 -->
 
+<!-- WakaTime Stats
+
 <h3 align="left">⚡ Development breakdown ⚡</h3>
+
+-->
+
 <!--START_SECTION:waka-->
 
 ```txt
