@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hoang 😎</h1>
-<h3 align="center">A passionate Full-Stack Software Engineer and Educator</h3>
+<h3 align="center">A passionate AI Researcher and Educator</h3>
 
 <p align="left">
-I'm a full-stack software engineer who loves building web applications and learning new technologies. I also have a great passion for teaching and sharing my knowledge with other people. I've been working as an English test-prep teacher for many years, so learning and teaching is my specialty. 
+⭐ Languages: English (Native-level C2 - IELTS 8.5, TOEIC 990), Japanese (Intermediate - JLPT/NAT-TEST N3), Vietnamese (Native), German (Elementary), Russian (Elementary)
 </p>
 
 <p align="left">
-I'm currently looking for a full-stack, frontend, or backend software engineer position. I love learning new technologies, so I don't mind working with things outside my current tech stack. With my discipline and persistence, I believe that I can pick up new skills very quickly. Please feel free to contact me at hallo.hoanglechau@gmail.com for new opportunities. Thank you very much!
-</p>
-
-<p align="left">
-⭐ Languages: English (Native-level C2 - IELTS 8.5, TOEIC 990), Japanese (Intermediate - JLPT/NAT-TEST N3), Vietnamese (Native), German (Elementary)
-</p>
-
-<p align="left">
-⭐ Skills: JavaScript, TypeScript, React, Redux, Zustand, Material UI, Chakra UI, Node.js, Express, MongoDB<br>
+⭐ Skills: Python, C++, Java, JavaScript, TypeScript, React, Redux, Zustand, Material UI, Chakra UI, Node.js, Express, MongoDB<br>
 </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
@@ -56,6 +48,15 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 
 <h3 align="left">⚡ Languages and Tools ⚡</h3>
 <p align="left">
+  <!-- Python -->
+  <a href="https://docs.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" /></a>
+  <!--
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" /></a>
+  -->
+  <!-- C++ -->
+  <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40" /></a>
+  <!-- Java -->
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="40" height="40" /></a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40" /></a>
@@ -63,10 +64,6 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40" /></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://svgshare.com/i/rVA.svg" alt="express" width="40" height="40" /></a>
-  <!-- Python 
-  <a href="https://docs.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" /></a>
-  -->
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
   <!--
@@ -129,33 +126,6 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
   <img align="center" src="https://github-readme-stats-lilac-seven.vercel.app/api/wakatime?username=hoanglechau" alt="hoanglechau" />
 </p>
 -->
-
-<!-- WakaTime Stats
-
-<h3 align="left">⚡ Development breakdown ⚡</h3>
-
--->
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 April 2023 - To: 01 December 2024
-
-Total Time: 260 hrs 24 mins
-
-JavaScript    164 hrs 12 mins ███████████████▓░░░░░░░░░   63.06 %
-TypeScript    20 hrs 43 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-CSS           14 hrs 46 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-TeX           10 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Lua           7 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-JSON          7 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-HTML          5 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Text          5 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Python        5 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Markdown      5 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 # Hi, I'm Hoang! Welcome to my GitHub page! :sunglasses:
