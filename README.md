@@ -113,6 +113,14 @@ I'm currently looking for a full-stack, frontend, or backend software engineer p
 </p>
 
 <p>
+  <img align="center" src="github-readme-stats.vercel.app/api?username=hoanglechau&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&include_all_commits=true&exclude_repo=github-readme-stats&custom_title=Hoang%27s%20GitHub%20Stats" alt="hoanglechau" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanglechau&hide=html,css,jupyter%20notebook,batch%20file&layout=compact&langs_count=10&theme=radical&exclude_repo=github-readme-stats&custom_title=Hoang%27s%20Most%20Used%20Languages" alt="hoanglechau" />
+</p>
+
+<p>
   <img align="center" src="https://github-readme-stats-lilac-seven.vercel.app/api?username=hoanglechau&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&include_all_commits=true&exclude_repo=github-readme-stats&custom_title=Hoang%27s%20GitHub%20Stats" alt="hoanglechau" />
 </p>
 
