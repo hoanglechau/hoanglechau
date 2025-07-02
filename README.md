@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Researcher and Educator</h3>
 
 <p align="left">
-⭐ Languages: English (Native-level C2 - IELTS 8.5, TOEIC 990), Japanese (Intermediate - JLPT/NAT-TEST N3), Mandarin Chinese (Intermediate), Vietnamese (Native), German (Elementary), Russian (Elementary)
+⭐ Languages: English (Native-level C2 - IELTS 8.5, TOEIC 990), Japanese (Intermediate - JLPT/NAT-TEST N3), Mandarin Chinese (Lower Intermediate), Vietnamese (Native), French (Elementary)
 </p>
 
 <p align="left">
