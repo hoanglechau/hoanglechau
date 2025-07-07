@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Hoang 😎</h1>
 <h3 align="center">A passionate AI Researcher and Educator</h3>
 
-<p align="left">
-⭐ Languages: English (Native-level C2 - IELTS 8.5, TOEIC 990), Japanese (Intermediate - JLPT/NAT-TEST N3), Mandarin Chinese (Lower Intermediate), Vietnamese (Native), French (Elementary)
-</p>
-
-<p align="left">
-⭐ Skills: Python, C++, Java, JavaScript, TypeScript, React, Redux, Zustand, Material UI, Chakra UI, Node.js, Express, MongoDB<br>
-</p>
+  <p align="left">
+⭐ AI Systems: End-to-end ML pipelines, model evaluation, and ethical AI deployment.<br>
+  </p>
+  <p align="left">
+⭐ Data Science & ML: Data wrangling, visualization, statistical analysis, and machine learning (scikit-learn).<br>
+  </p>
+  <p align="left">
+⭐ Algorithms & Data Structures: Proficient in sorting, searching, trees, graphs, and complexity analysis.<br>
+  </p>
+  <p align="left">
+⭐ Languages: Python, Java, JavaScript, C++; strong in OOP and algorithmic problem-solving.<br>
+  </p>
+  <p align="left">
+⭐ Software Engineering: Agile/Scrum, Git, CI/CD, unit testing, modular design, and design patterns.<br>
+  </p>
+  <p align="left">
+⭐ Full-Stack Development: React, Node.js, MongoDB, RESTful APIs, and responsive UI design.<br>
+  </p>
+  <p align="left">
+⭐ Databases: NoSQL (MongoDB), schema design, query optimization, and data access layers.<br>
+  </p>
+  <p align="left">
+⭐ DevOps & Tooling: GitHub, Webpack/Vite, Chrome DevTools, Prettier, ESLint, Nginx, and pm2.<br>
+  </p>
+  
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
 
