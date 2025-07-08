@@ -25,6 +25,9 @@
   <p align="left">
 ⭐ DevOps & Tooling: GitHub, Webpack/Vite, Chrome DevTools, Prettier, ESLint, Nginx, and pm2.<br>
   </p>
+  <p align="left">
+⭐ Language Proficiencies: English (Native-level C2 - IELTS 8.5/9.0, TOEIC 990/990), Japanese (Intermediate - JLPT N3), Mandarin (Lower Intermediate), Vietnamese (Native), French (Elementary)<br>
+  </p>
   
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
