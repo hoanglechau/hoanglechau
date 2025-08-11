@@ -20,7 +20,7 @@
 ⭐ Full-Stack Development: React, Node.js, MongoDB, RESTful APIs, and responsive UI design.<br>
   </p>
   <p align="left">
-⭐ Databases: NoSQL (MongoDB), schema design, query optimization, and data access layers.<br>
+⭐ Databases: NoSQL, schema design, query optimization, and data access layers.<br>
   </p>
   <p align="left">
 ⭐ DevOps & Tooling: GitHub, Webpack/Vite, Chrome DevTools, Prettier, ESLint, Nginx, and pm2.<br>
