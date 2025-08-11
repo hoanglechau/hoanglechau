@@ -11,7 +11,7 @@
 ⭐ Algorithms & Data Structures: Proficient in sorting, searching, trees, graphs, and complexity analysis.<br>
   </p>
   <p align="left">
-⭐ Languages: Python, Java, JavaScript, C++; strong in OOP and algorithmic problem-solving.<br>
+⭐ Languages: Python, Java, JavaScript, C++.<br>
   </p>
   <p align="left">
 ⭐ Software Engineering: Agile/Scrum, Git, CI/CD, unit testing, modular design, and design patterns.<br>
@@ -37,10 +37,12 @@
 -->
 - 📫 Reach me at **hallo.hoanglechau@gmail.com**
 
+<!--
 <h3 align="left">⚡ Connect with me ⚡</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hoanglechau" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanglechau" height="30" width="40" /></a>
 </p>
+-->
 
 <!--
 
