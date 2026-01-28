@@ -2,16 +2,28 @@
 <h3 align="center">A passionate AI Researcher and Educator</h3>
 
   <p align="left">
-⭐ AI Systems: End-to-end ML pipelines, model evaluation, and ethical AI deployment.<br>
+⭐ Programming Languages: Python, Java, JavaScript, C++.<br>
   </p>
   <p align="left">
-⭐ Data Science & ML: Data wrangling, visualization, statistical analysis, and machine learning (scikit-learn).<br>
+⭐ Language Proficiencies: English (Native-level C2 - IELTS 8.5/9.0, TOEIC 990/990), Japanese (Intermediate - JLPT N3), Mandarin (Lower Intermediate), Vietnamese (Native), French (Elementary)<br>
+  </p>
+  <p align="left">
+⭐ Deep Learning & Computer Vision: PyTorch, TensorFlow, Keras, SAM (Segment Anything Model), MedSAM, OpenCV, Transfer Learning, Multi-Task Learning, ResNet/SE-ResNet Architectures.<br>
+  </p>
+  <p align="left">
+⭐ Medical Image Analysis: 2D/3D Segmentation, Denoising, Artifact Simulation (Gaussian/Poisson), DICOM Data Handling, Evaluation Metrics (Dice, Hausdorff Distance, IoU).<br>
+  </p>
+  <p align="left">
+⭐ Machine Learning & Data Science: Scikit-learn, Pandas, NumPy, SciPy, Class Imbalance Handling (SMOTE), Feature Selection (mRMR), Hyperparameter Tuning (GridSearchCV), Clustering (K-Means).<br>
+  </p>
+  <p align="left">
+⭐ Mathematical Foundations: Linear Algebra, Calculus, Probability & Statistics, Optimization Algorithms, Loss Function Design (Hard Parameter Sharing).<br>
+  </p>
+  <p align="left">
+⭐ Research & MLOps Tools: Git/GitHub, Experiment Tracking, Docker, Google Colab, Linux/Bash, LaTeX, Scientific Visualization (Matplotlib, Seaborn).<br>
   </p>
   <p align="left">
 ⭐ Algorithms & Data Structures: Proficient in sorting, searching, trees, graphs, and complexity analysis.<br>
-  </p>
-  <p align="left">
-⭐ Languages: Python, Java, JavaScript, C++.<br>
   </p>
   <p align="left">
 ⭐ Software Engineering: Agile/Scrum, Git, CI/CD, unit testing, modular design, and design patterns.<br>
@@ -23,16 +35,14 @@
 ⭐ Databases: NoSQL, schema design, query optimization, and data access layers.<br>
   </p>
   <p align="left">
-⭐ DevOps & Tooling: GitHub, Webpack/Vite, Chrome DevTools, Prettier, ESLint, Nginx, and pm2.<br>
-  </p>
-  <p align="left">
-⭐ Language Proficiencies: English (Native-level C2 - IELTS 8.5/9.0, TOEIC 990/990), Japanese (Intermediate - JLPT N3), Mandarin (Lower Intermediate), Vietnamese (Native), French (Elementary)<br>
+⭐ DevOps & Tooling: Webpack/Vite, Chrome DevTools, Prettier, ESLint, Nginx, and pm2.<br>
   </p>
   
-
+  
+<!--
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
 
-<!--
+
 - 💻 View my **[Portfolio Website](https://hoanglechau.vercel.app/)** 
 -->
 - 📫 Reach me at **hallo.hoanglechau@gmail.com**
@@ -137,6 +147,7 @@
   <a href="https://zoom.us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="zoom" width="40" height="40" /></a>
 </p>
 
+<!--
 <p>
   <img align="center" src="https://github-readme-stats-lilac-seven.vercel.app//api?username=hoanglechau&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&include_all_commits=true&exclude_repo=github-readme-stats&custom_title=Hoang%27s%20GitHub%20Stats" alt="hoanglechau" />
 </p>
@@ -149,7 +160,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglechau&theme=radical" alt="hoanglechau" />
 </p>
 
-<!--
+
 <p>
   <img align="center" src="https://github-readme-stats-lilac-seven.vercel.app/api/wakatime?username=hoanglechau" alt="hoanglechau" />
 </p>
