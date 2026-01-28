@@ -22,6 +22,7 @@
   <p align="left">
 ⭐ Research & MLOps Tools: Git/GitHub, Experiment Tracking, Docker, Google Colab, Linux/Bash, LaTeX, Scientific Visualization (Matplotlib, Seaborn).<br>
   </p>
+  <!--
   <p align="left">
 ⭐ Algorithms & Data Structures: Proficient in sorting, searching, trees, graphs, and complexity analysis.<br>
   </p>
@@ -37,7 +38,7 @@
   <p align="left">
 ⭐ DevOps & Tooling: Webpack/Vite, Chrome DevTools, Prettier, ESLint, Nginx, and pm2.<br>
   </p>
-  
+  -->
   
 <!--
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hoanglechau&theme=radical&title=Commits,Repositories,PullRequest,Followers" alt="hoanglechau" /></a> </p>
