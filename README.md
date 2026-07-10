@@ -5,7 +5,7 @@
 ⭐ Programming Languages: Python, Java, JavaScript, C, C++, SQL, HTML, CSS.<br>
   </p>
   <p align="left">
-⭐ Language Proficiencies: English (Native-level C2 - IELTS 8.5/9.0 with 8.5 in Speaking, TOEIC 990/990), Japanese (Intermediate - JLPT N3), Mandarin (Intermediate), Vietnamese (Native), French (Elementary), German (Elementary)<br>
+⭐ Language Proficiencies: English (Native-level C2 - IELTS 8.5/9.0 with 8.5 in Speaking, TOEIC 990/990), Japanese (Intermediate - JLPT N3), Mandarin (Intermediate), Vietnamese (Native), French (Elementary), German (Elementary).<br>
   </p>
   <p align="left">
 ⭐ Deep Learning & Computer Vision: PyTorch, TensorFlow, Keras, SAM (Segment Anything Model), MedSAM, OpenCV, Transfer Learning, Multi-Task Learning, ResNet/SE-ResNet Architectures.<br>
